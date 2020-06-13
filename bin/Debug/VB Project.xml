@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VB Project
+</name>
+</assembly>
+<members>
+<member name="T:VB_Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VB_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VB_Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:VB_Project.My.Resources.Resources._65491984_2302499819865796_2072218653989797888_n1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project.My.Resources.Resources.commission_agent_money_company_middleman_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project.My.Resources.Resources.company">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project.My.Resources.Resources.global_leadership_organization_international_world_company_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project.My.Resources.Resources.outsourcing_outside_foreign_supplier_people_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project.My.Resources.Resources.outsourcing_outside_foreign_supplier_people_5121">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project.My.Resources.Resources.resourcing_with_ocs_consulting_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
